@@ -1,6 +1,6 @@
 # Frontend Developer - Assessment
 
-Our research team wants us to add a new component to one of our apps to display Water Production data to our customers. They provided us with a `data.json` file which contains a list of objects for different dates. The object type is described below:
+Our research team wants us to add a new component to one of our apps to display Water Production data. They provided us with a `data.json` file which contains a list of objects for different dates. The object type is described below:
 
 ```typescript
 type WaterRate = {
@@ -14,7 +14,7 @@ They also provided a jupyter notebook file that displays the contents of the `da
 
 ![](./images/notebook-img.png)
 
-> NOTE: This file was only provided for us to check the data we have in the `data.json` file and we should not write any Python code in this task.
+> NOTE: This notebook file was only provided for us to check the data we have in the `data.json` file and we should not write any Python code in this task.
 
 To help with this process, our UX design team created the following wireframe that describes the component's appearance:
 
@@ -30,7 +30,7 @@ To start the service API, you need to run:
 
     yarn start
 
-and use the url: `http://localhost:8080/data` to access the movie list.
+and use the url: `http://localhost:8080/data` to access the data.
 
 ## Notes
 
