@@ -35,7 +35,7 @@ and use the url: `http://localhost:8080/data` to access the data.
 ## Notes
 
 - If something is not clear and you want to make assumptions in order to proceed you can document it in a separated file called ASSUMPTIONS.md
-- You are free complement your project using any javascript chart library you want, just make sure this library works fine with ReactJS :)
+- You are free to use any javascript chart library you want, just make sure the library works fine with ReactJS :)
 - The server API is built on top of the https://github.com/typicode/json-server library
 - You can send your final solution as a zip file or provide it in as a public github repository
 - Please let us know how much time you spent to solve the task
