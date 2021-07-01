@@ -1,9 +1,10 @@
 {
-    "version": "1.0.0",
-    "scripts": {
-      "start": "json-server ./server.js --port 8080 --delay 500"
-    },
-    "dependencies": {
-      "json-server": "^0.16.3"
-    }
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server ./server.js --port 8080 --delay 500"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "json-server": "^0.16.3"
   }
+}
