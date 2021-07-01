@@ -1,5 +1,3 @@
-# Frontend Developer - Assessment
-
 Our research team wants us to add a new component to one of our apps to display Water Production data. They provided us with a `data.json` file which contains a list of objects for different dates. The object type is described below:
 
 ```typescript
@@ -40,7 +38,4 @@ and use the url: `http://localhost:8080/data` to access the data.
 - You can send your final solution as a zip file or provide it in as a public github repository
 - Please let us know how much time you spent to solve the task
 
-If you have any question please don't hesitate to contact us at dgo@resoptima.com.
-
-Good luck!
-# weelprod
+Good luck!# wellprod
