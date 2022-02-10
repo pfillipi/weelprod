@@ -40,6 +40,5 @@ and use the url: `http://localhost:8080/data` to access the data.
 - You can send your final solution as a zip file or provide it in as a public github repository
 - Please let us know how much time you spent to solve the task
 
-If you have any question please don't hesitate to contact us at dgo@resoptima.com.
 
 Good luck!
